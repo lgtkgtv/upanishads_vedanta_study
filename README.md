@@ -1,4 +1,4 @@
-# Repo created for Aitareya Upanishad study group - Chinmaya Mission Portland Yr 2025
+### Repo created for Aitareya Upanishad study group - Chinmaya Mission Portland (Yr 2025)
 
 [Most important upanishads](https://github.com/lgtkgtv/upanishads_vedanta_study/blob/main/about_upanishads.md)  
 
