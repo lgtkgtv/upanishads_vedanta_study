@@ -73,25 +73,25 @@ sa – He/That (Self) │ īkṣata – envisioned, deliberated │ lokān – w
 
 ---
 
-**स इमान् लोकान् असृजत—अम्भः मरीचीः मरम् आपः** — *“He created these worlds: Ambhaḥ, Marīcīḥ, Mara, Āpaḥ.”*
+**स इमान् लोकान् असृजत—अम्भः मरीचीः मरम् आपः** — *“He created these worlds: Ambhaḥ, Marīcīḥ, Mara, Āpaḥ.”*  
 sa – He (the Self) │ imān – these │ lokān – worlds │ asṛjata – created │ ambhaḥ – Ambhaḥ (upper) │ marīcīḥ – Marīcīḥ (radiant mid-space) │ maraṃ – Mara (earth, the mortal) │ āpaḥ – Āpaḥ (waters, lower)
 
 > **Note:** Fourfold set abbreviates the traditional **14 worlds**: Ambhaḥ ≈ the five upper heavens; Marīcīḥ ≈ the interspace; Mara ≈ Earth; Āpaḥ ≈ seven lower worlds.
 
-**अदः अम्भः, परेण दिवं, द्यौः प्रतिष्ठा** — *“Ambhaḥ is beyond, above heaven; heaven (Dyauḥ) is its support.”*
+**अदः अम्भः, परेण दिवं, द्यौः प्रतिष्ठा** — *“Ambhaḥ is beyond, above heaven; heaven (Dyauḥ) is its support.”*  
 adaḥ – that (far, beyond) │ ambhaḥ – Ambhaḥ │ pareṇa – beyond, further than │ divam – heaven │ dyauḥ – heaven/sky │ pratiṣṭhā – support/base
 
 > **Note:** “Beyond” is **cosmological pedagogy**, not cartography; it signals a graded teaching ladder from subtler to grosser planes.
 
-**अन्तरिक्षं मरीचयः । पृथिवी मरः** — *“Marīcīḥ is the mid-space; Mara is the Earth.”*
+**अन्तरिक्षं मरीचयः । पृथिवी मरः** — *“Marīcīḥ is the mid-space; Mara is the Earth.”*  
 antarikṣam – mid-space │ marīcayaḥ – Marīcīḥ (radiant region) │ pṛthivī – Earth │ maraḥ – Mara (the mortal realm)
 
-> **Note:** “Mara” shares the root *mṛ* (to die), marking Earth as the **plane of mortality**.
+> **Note:** “Mara” shares the root *mṛ* (to die), marking Earth as the **plane of mortality**.  
 
-**या अधस्तात् ताः आपः** — *“Those below are Āpaḥ (waters).”*
-yā – which (regions) │ adhastāt – below │ tāḥ – those │ āpaḥ – waters (symbol for the **lower strata/nether worlds**)
+**या अधस्तात् ताः आपः** — *“Those below are Āpaḥ (waters).”*  
+yā – which (regions) │ adhastāt – below │ tāḥ – those │ āpaḥ – waters (symbol for the **lower strata/nether worlds**)  
 
-> **Note:** “Waters” symbolize **undifferentiated substrate** and also code the nether regions; this is mnemonic, not hydrography.
+> **Note:** “Waters” symbolize **undifferentiated substrate** and also code the nether regions; this is mnemonic, not hydrography.  
 
 ### **Reflection**
 
@@ -109,17 +109,17 @@ yā – which (regions) │ adhastāt – below │ tāḥ – those │ āpaḥ
 | लोकपालान्नु सृजा इति ।                         | “Let Me create the guardians of these worlds.”             |
 | स आद्भ्यः पुरुषं संउद्धृत्य अमूर्च्छयत् ।             | Then, taking up from the waters a Person, He gave it form. |
 
-**स ईक्षत—इमे नु लोकाः** — *“He reflected: ‘Here now are the worlds.’”*
+**स ईक्षत—इमे नु लोकाः** — *“He reflected: ‘Here now are the worlds.’”*  
 sa – He (the Self) │ īkṣata – envisioned, reflected │ ime – these │ nu – indeed, now │ lokāḥ – worlds
 
 > **Note:** This reflection signals transition from inert potential to conscious organization. “He saw” means **awareness recognized its own manifestation**.
 
-**लोकपालान्नु सृजा इति** — *“Let Me create the protectors of these worlds.”*
+**लोकपालान्नु सृजा इति** — *“Let Me create the protectors of these worlds.”*  
 lokapālān – guardians, rulers │ nu – indeed │ sṛjā – let me create │ iti – thus, so said
 
 > **Note:** “Protectors” (Devatās) personify **laws or governing principles**. In Vedāntic logic, every sensory or cosmic function requires a corresponding *intelligence-field* (Devatā).
 
-**स आद्भ्यः पुरुषं संउद्धृत्य अमूर्च्छयत्** — *“From the waters He lifted a Person and gave it form.”*
+**स आद्भ्यः पुरुषं संउद्धृत्य अमूर्च्छयत्** — *“From the waters He lifted a Person and gave it form.”*  
 sa – He │ ādbhyaḥ – from the waters (primordial causal matrix) │ puruṣam – a Person, archetypal being │ samuddhṛtya – having taken out, drawn forth │ amūrcchayat – shaped, gave solid or distinct form
 
 > **Note:**
@@ -152,47 +152,47 @@ sa – He │ ādbhyaḥ – from the waters (primordial causal matrix) │ puru
 
 ---
 
-**तमभ्यतपत् । तस्याभितप्तस्य मुखं निरभिद्यत यथा अण्डं** — *“He brooded upon that; and as He brooded, the mouth burst forth, as an egg cracks.”*
+**तमभ्यतपत् । तस्याभितप्तस्य मुखं निरभिद्यत यथा अण्डं** — *“He brooded upon that; and as He brooded, the mouth burst forth, as an egg cracks.”*  
 tam – that (Puruṣa) │ abhyatapat – He brooded upon, heated by tapas │ tasya – of him │ abhitaptasya – when thus brooded/heated │ mukhaṃ – mouth │ nirabhidyata – split open, burst forth │ yathā – as │ aṇḍam – an egg
 
 > **Note:** “Brooding” (*tapas*) symbolizes **the concentration of awareness into creative potential**. “Egg” evokes latent life emerging from unity.
 
-**मुखात् वाक् । वाचः अग्निः** — *“From the mouth, speech; from speech, fire.”*
+**मुखात् वाक् । वाचः अग्निः** — *“From the mouth, speech; from speech, fire.”*  
 mukhāt – from the mouth │ vāk – speech │ vācaḥ – from speech │ agniḥ – fire
 
 > **Note:** Speech and fire both express **energy and transformation**—the power of manifestation through sound and heat.
 
-**नासिके निरभिद्येताम् । नासिकाभ्याम् प्राणः । प्राणात् वायुः** — *“The nostrils opened; from them breath; from breath, air.”*
+**नासिके निरभिद्येताम् । नासिकाभ्याम् प्राणः । प्राणात् वायुः** — *“The nostrils opened; from them breath; from breath, air.”*  
 nāsike – nostrils │ nirabhidyetām – were opened │ nāsikābhyām – from the nostrils │ prāṇaḥ – breath │ prāṇāt – from breath │ vāyuḥ – air
 
 > **Note:** Air corresponds to **vital motion**, connecting macrocosmic wind and microcosmic respiration.
 
-**अक्षिणी निरभिद्येताम् । अक्षिभ्याम् चक्षुः । चक्षुषः आदित्यः** — *“The eyes opened; from them sight; from sight, the Sun.”*
+**अक्षिणी निरभिद्येताम् । अक्षिभ्याम् चक्षुः । चक्षुषः आदित्यः** — *“The eyes opened; from them sight; from sight, the Sun.”*    
 akṣiṇī – eyes │ nirabhidyetām – were opened │ akṣibhyām – from the eyes │ cakṣuḥ – sight │ cakṣuṣaḥ – from sight │ ādityaḥ – the Sun
 
 > **Note:** The Sun is the cosmic counterpart of sight; **light enables perception both externally and internally.**
 
-**कर्णौ निरभिद्येताम् । कर्णाभ्याम् श्रोत्रम् । श्रोत्रात् दिशः** — *“The ears opened; from them hearing; from hearing, space (the quarters).”*
+**कर्णौ निरभिद्येताम् । कर्णाभ्याम् श्रोत्रम् । श्रोत्रात् दिशः** — *“The ears opened; from them hearing; from hearing, space (the quarters).”*   
 karṇau – ears │ nirabhidyetām – were opened │ karṇābhyām – from the ears │ śrotram – hearing │ śrotrāt – from hearing │ diśaḥ – directions, space
 
 > **Note:** Hearing requires space to transmit vibration; hence **sound and space** are linked.
 
-**त्वक् निरभिद्यत । त्वचः लोमानि । लोमभ्यः औषधिवनस्पतयः** — *“The skin opened; from skin hair; from hair, herbs and trees.”*
+**त्वक् निरभिद्यत । त्वचः लोमानि । लोमभ्यः औषधिवनस्पतयः** — *“The skin opened; from skin hair; from hair, herbs and trees.”*  
 tvak – skin │ nirabhidyata – opened │ tvacaḥ – from skin │ lomāni – hairs │ lomabhyaḥ – from hair │ auṣadhi-vanaspatayaḥ – herbs and trees
 
 > **Note:** The body’s surface mirrors the Earth’s vegetation; **microcosm mirrors macrocosm.**
 
-**हृदयं निरभिद्यत । हृदयात् मनः । मनसः चन्द्रमाः** — *“The heart opened; from the heart, mind; from mind, the Moon.”*
+**हृदयं निरभिद्यत । हृदयात् मनः । मनसः चन्द्रमाः** — *“The heart opened; from the heart, mind; from mind, the Moon.”*  
 hṛdayam – heart │ nirabhidyata – opened │ hṛdayāt – from heart │ manaḥ – mind │ manasaḥ – from mind │ candramāḥ – Moon
 
 > **Note:** The Moon’s changing phases symbolize **fluctuating thought and emotion**.
 
-**नाभिः निरभिद्यत । नाभ्याः अपानः । अपानात् मृत्युः** — *“The navel opened; from navel, the Apāna (downward breath); from Apāna, Death.”*
+**नाभिः निरभिद्यत । नाभ्याः अपानः । अपानात् मृत्युः** — *“The navel opened; from navel, the Apāna (downward breath); from Apāna, Death.”*  
 nābhiḥ – navel │ nirabhidyata – opened │ nābhyāḥ – from navel │ apānaḥ – downward breath │ apānāt – from apāna │ mṛtyuḥ – death
 
 > **Note:** Apāna governs elimination and decay—its Deity is **Mṛtyu**, lord of return to elements.
 
-**शिश्नं निरभिद्यत । शिश्नात् रेतः । रेतसः आपः** — *“The generative organ opened; from it seed; from seed, waters.”*
+**शिश्नं निरभिद्यत । शिश्नात् रेतः । रेतसः आपः** — *“The generative organ opened; from it seed; from seed, waters.”*  
 śiśnam – generative organ │ nirabhidyata – opened │ śiśnāt – from organ │ retaḥ – seed │ retasaḥ – from seed │ āpaḥ – waters
 
 > **Note:** The creative cycle closes with **Waters**, returning to the primal matrix from which life first emerged.
@@ -224,29 +224,29 @@ THE CREATION OF THE organs, their objects and their Devatas in the previous vers
 
 ## **Verse 2.1 — The Need for a Smaller Abode: The Individual**
 
-|                                                                              |                                                                                       |
-| ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+|                                                                |                                                                                       |
+| ---------------------------------------------------------------| ------------------------------------------------------------------------------------- |
 | ताः एता देवताः सृष्टाः अस्मिन् महति अर्णवे प्रापतन् ।                        | Those Deities, once created, fell headlong into the great vast ocean.                 |
-| तं अशनायापिपासाभ्याम् अन्ववार्जत् ।                                          | The Lord subjected them to hunger and thirst.                                         |
-| ताः एनम् अब्रुवन्—आयतनं नः प्रजानिहि, यस्मिन् प्रतिष्ठिताः अन्नम् अदाम इति । | They said to Him: “Find for us an abode wherein, being established, we may eat food.” |
+| तं अशनायापिपासाभ्याम् अन्ववार्जत् ।                                    | The Lord subjected them to hunger and thirst.                                         |
+| ताः एनम् अब्रुवन्—आयतनं नः प्रजानिहि, यस्मिन् प्रतिष्ठिताः अन्नम् अदाम इति ।     | They said to Him: “Find for us an abode wherein, being established, we may eat food.” |
 
 ---
 
-**ताः एता देवताः सृष्टाः अस्मिन् महति अर्णवे प्रापतन्** — *“Those Deities, once created, fell headlong into the great vast sea.”*
+**ताः एता देवताः सृष्टाः अस्मिन् महति अर्णवे प्रापतन्** — *“Those Deities, once created, fell headlong into the great vast sea.”*  
 tāḥ – those │ etāḥ – these │ devatāḥ – deities, powers │ sṛṣṭāḥ – created │ asmin – in this │ mahati – great │ arṇave – ocean (figuratively the formless expanse) │ prāpatan – fell down
 
 > **Note:** The “ocean” symbolizes **undifferentiated consciousness**—the vast matrix where separate functions have no footing yet. The fall marks the **need for embodiment** to localize intelligence.
 
 ---
 
-**तं अशनायापिपासाभ्याम् अन्ववार्जत्** — *“The Lord subjected them to hunger and thirst.”*
+**तं अशनायापिपासाभ्याम् अन्ववार्जत्** — *“The Lord subjected them to hunger and thirst.”*  
 tam – them (the deities) │ aśanāyā – hunger │ apipāsābhyām – and thirst │ anvavārjat – afflicted, joined, bound
 
 > **Note:** Hunger and thirst are **drives toward relation and interaction**—without them, functions remain inert. The “trial” introduces **dependence** as a means for cooperation.
 
 ---
 
-**ताः एनम् अब्रुवन्—आयतनं नः प्रजानिहि, यस्मिन् प्रतिष्ठिताः अन्नम् अदाम इति** — *“They said: Find for us an abode wherein, being established, we may eat food.”*
+**ताः एनम् अब्रुवन्—आयतनं नः प्रजानिहि, यस्मिन् प्रतिष्ठिताः अन्नम् अदाम इति** — *“They said: Find for us an abode wherein, being established, we may eat food.”*  
 tāḥ – they │ enam – to Him (the Lord) │ abruvan – said │ āyatanam – abode, dwelling │ naḥ – for us │ prajānīhi – create, find out │ yasmin – in which │ pratiṣṭhitāḥ – being established │ annam – food │ adāma – we may eat │ iti – thus
 
 > **Note:** The Devatās request embodiment so their forces can act coherently. The **abode** means an *individual body*, the microcosmic site where each Devatā (sense or faculty) can perform its dharma.
@@ -264,21 +264,21 @@ tāḥ – they │ enam – to Him (the Lord) │ abruvan – said │ āyatana
 
 ## **Verse 2.2 — Cows and Horses: The Trial Abodes**
 
-|                                                            |                                                                                    |
-| ---------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| ताभ्यः गाम् आनयत् । ताः अब्रुवन्—न वै नः अयम् अलम् इति ।   | He brought a cow for them. They said, “This is not sufficient for us.”             |
-| ताभ्यः अश्वम् आनयत् । ताः अब्रुवन्—न वै नः अयम् अलम् इति । | He brought a horse for them. They said again, “This too is not sufficient for us.” |
+|                                                       |                                                                                    |
+| ------------------------------------------------------| ---------------------------------------------------------------------------------- |
+| ताभ्यः गाम् आनयत् । ताः अब्रुवन्—न वै नः अयम् अलम् इति ।       | He brought a cow for them. They said, “This is not sufficient for us.”             |
+| ताभ्यः अश्वम् आनयत् । ताः अब्रुवन्—न वै नः अयम् अलम् इति ।      | He brought a horse for them. They said again, “This too is not sufficient for us.” |
 
 ---
 
-**ताभ्यः गाम् आनयत् । ताः अब्रुवन्—न वै नः अयम् अलम् इति।** — *“He brought a cow for them. They said, ‘This is not enough for us.’”*
+**ताभ्यः गाम् आनयत् । ताः अब्रुवन्—न वै नः अयम् अलम् इति।** — *“He brought a cow for them. They said, ‘This is not enough for us.’”*  
 tābhyaḥ – for them (the Deities) │ gām – a cow │ ānayat – brought, presented │ tāḥ – they │ abruvan – said │ na vai – indeed not │ naḥ – for us │ ayam – this │ alam – adequate, sufficient │ iti – thus
 
 > **Note:** The *cow* represents the **earthly body**—nurturing, slow, primarily digestive. Suitable for basic sustenance, but not for dynamic cognitive or sensory functions. The Deities (faculties) require a more articulate instrument.
 
 ---
 
-**ताभ्यः अश्वम् आनयत् । ताः अब्रुवन्—न वै नः अयम् अलम् इति।** — *“He brought a horse for them. They said again, ‘This too is not enough for us.’”*
+**ताभ्यः अश्वम् आनयत् । ताः अब्रुवन्—न वै नः अयम् अलम् इति।** — *“He brought a horse for them. They said again, ‘This too is not enough for us.’”*  
 tābhyaḥ – for them │ aśvam – a horse │ ānayat – brought │ tāḥ – they │ abruvan – said │ na vai naḥ ayam alam iti – this too is not sufficient
 
 > **Note:** The *horse* represents **speed, power, instinctive movement**—a body fit for energy and motion, yet lacking the refinement for higher cognition. The Deities find it too crude for coordinated awareness.
@@ -296,21 +296,21 @@ tābhyaḥ – for them │ aśvam – a horse │ ānayat – brought │ tā�
 
 ## **Verse 2.3 — MAN: The Perfect Abode!**
 
-|                                                              |                                                                                              |
-| ------------------------------------------------------------ | -------------------------------------------------------------------------------------------- |
-| ताभ्यः पुरुषम् आनयत् । ताः अब्रुवन्—सुकृतं बत इति ।          | He brought a human being for them, and they exclaimed, “Oh! Well done indeed!”               |
-| पुरुषो वा वा सुकृतम् । ताः अब्रुवीत्—यथा आयतनं प्रविशत इति । | “Verily, man is a well-made creation,” He said to them, “Enter into your respective abodes.” |
+|                                                      |                                                                                              |
+| ---------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| ताभ्यः पुरुषम् आनयत् । ताः अब्रुवन्—सुकृतं बत इति ।             | He brought a human being for them, and they exclaimed, “Oh! Well done indeed!”               |
+| पुरुषो वा वा सुकृतम् । ताः अब्रुवीत्—यथा आयतनं प्रविशत इति ।     | “Verily, man is a well-made creation,” He said to them, “Enter into your respective abodes.” |
 
 ---
 
-**ताभ्यः पुरुषम् आनयत् । ताः अब्रुवन्—सुकृतं बत इति।** — *“He brought a man for them; they exclaimed, ‘Ah! This is indeed well made!’”*
+**ताभ्यः पुरुषम् आनयत् । ताः अब्रुवन्—सुकृतं बत इति।** — *“He brought a man for them; they exclaimed, ‘Ah! This is indeed well made!’”*  
 tābhyaḥ – for them (the Deities) │ puruṣam – man, the human form │ ānayat – brought │ tāḥ – they │ abruvan – said │ sukṛtam – well-made, perfect │ bata – indeed, surely │ iti – thus
 
 > **Note:** The Deities rejoice because the **human organism** can express every sense and cognitive faculty in balance. The word *sukṛtam* (“well-made”) marks the **culmination of evolutionary design**—a form suited for awareness to recognize itself.
 
 ---
 
-**पुरुषो वा वा सुकृतम् । ताः अब्रुवीत्—यथा आयतनं प्रविशत इति।** — *“Verily, man is well-made. He said to them, ‘Enter your respective abodes.’”*
+**पुरुषो वा वा सुकृतम् । ताः अब्रुवीत्—यथा आयतनं प्रविशत इति।** — *“Verily, man is well-made. He said to them, ‘Enter your respective abodes.’”*  
 puruṣaḥ – man │ vā vā – verily indeed │ sukṛtam – well-made │ tāḥ – to them │ abruvīt – He said │ yathā – according to │ āyatanam – abode │ praviśata – enter │ iti – thus
 
 > **Note:** “Enter your abodes” signals **integration**—each Devatā (sense/intelligence) now inhabits its corresponding human organ. The cosmic principles find their local manifestation within the person.
@@ -328,55 +328,55 @@ puruṣaḥ – man │ vā vā – verily indeed │ sukṛtam – well-made �
 
 ## **Verse 2.4 — The Gods Take Up Their Super-Abode**
 
-|                                              |                                                             |
-| -------------------------------------------- | ----------------------------------------------------------- |
-| अग्निः वाग् भूत्वा मुखं प्रविशत् ।           | Agni, becoming Speech, entered the mouth.                   |
-| वायुः प्राणः भूत्वा नासिके प्रविशत् ।        | Vāyu, becoming Breath, entered the nostrils.                |
-| आदित्यः चक्षुः भूत्वा अक्षिणी प्रविशत् ।     | Āditya (the Sun), becoming Sight, entered the eyes.         |
-| दिशः श्रोत्रं भूत्वा कर्णौ प्रविशत् ।        | The Quarters (Space), becoming Hearing, entered the ears.   |
-| औषधि-वनस्पतयः लोमानि भूत्वा त्वचं प्रविशत् । | Herbs and trees, becoming hair, entered the skin.           |
-| चन्द्रमाः मनः भूत्वा हृदयं प्रविशत् ।        | The Moon, becoming Mind, entered the heart.                 |
-| मृत्युः अपानः भूत्वा नाभिं प्रविशत् ।        | Death, becoming Apāna (downward breath), entered the navel. |
-| आपः रेतः भूत्वा शिश्नं प्रविशत् ।            | Waters, becoming seed, entered the generative organ.        |
+|                                       |                                                             |
+| ------------------------------------- | ----------------------------------------------------------- |
+| अग्निः वाग् भूत्वा मुखं प्रविशत् ।               | Agni, becoming Speech, entered the mouth.                   |
+| वायुः प्राणः भूत्वा नासिके प्रविशत् ।            | Vāyu, becoming Breath, entered the nostrils.                |
+| आदित्यः चक्षुः भूत्वा अक्षिणी प्रविशत् ।          | Āditya (the Sun), becoming Sight, entered the eyes.         |
+| दिशः श्रोत्रं भूत्वा कर्णौ प्रविशत् ।              | The Quarters (Space), becoming Hearing, entered the ears.   |
+| औषधि-वनस्पतयः लोमानि भूत्वा त्वचं प्रविशत् ।   | Herbs and trees, becoming hair, entered the skin.           |
+| चन्द्रमाः मनः भूत्वा हृदयं प्रविशत् ।            | The Moon, becoming Mind, entered the heart.                 |
+| मृत्युः अपानः भूत्वा नाभिं प्रविशत् ।            | Death, becoming Apāna (downward breath), entered the navel. |
+| आपः रेतः भूत्वा शिश्नं प्रविशत् ।               | Waters, becoming seed, entered the generative organ.        |
 
 ---
 
-**अग्निः वाग् भूत्वा मुखं प्रविशत्** — *“Agni, having become Speech, entered the mouth.”*
+**अग्निः वाग् भूत्वा मुखं प्रविशत्** — *“Agni, having become Speech, entered the mouth.”*  
 agniḥ – Fire │ vāk – speech │ bhūtvā – having become │ mukhaṃ – mouth │ praviśat – entered
 
 > **Note:** Fire’s brightness and articulation correspond to the **expressive energy of speech**.
 
-**वायुः प्राणः भूत्वा नासिके प्रविशत्** — *“Vāyu, having become Breath, entered the nostrils.”*
+**वायुः प्राणः भूत्वा नासिके प्रविशत्** — *“Vāyu, having become Breath, entered the nostrils.”*  
 vāyuḥ – air │ prāṇaḥ – breath, vital energy │ bhūtvā – having become │ nāsike – nostrils │ praviśat – entered
 
 > **Note:** Breath is the **individual reflection of cosmic motion**—Vāyu internalized.
 
-**आदित्यः चक्षुः भूत्वा अक्षिणी प्रविशत्** — *“Āditya, having become sight, entered the eyes.”*
+**आदित्यः चक्षुः भूत्वा अक्षिणी प्रविशत्** — *“Āditya, having become sight, entered the eyes.”*  
 ādityaḥ – the Sun │ cakṣuḥ – sight │ bhūtvā – having become │ akṣiṇī – eyes │ praviśat – entered
 
 > **Note:** Vision depends on light; **Sun = eye of the cosmos.**
 
-**दिशः श्रोत्रं भूत्वा कर्णौ प्रविशत्** — *“The Quarters, having become hearing, entered the ears.”*
+**दिशः श्रोत्रं भूत्वा कर्णौ प्रविशत्** — *“The Quarters, having become hearing, entered the ears.”*  
 diśaḥ – directions, space │ śrotram – hearing │ bhūtvā – having become │ karṇau – ears │ praviśat – entered
 
 > **Note:** Sound exists only in space; hence **hearing = awareness of spatial relation**.
 
-**औषधि-वनस्पतयः लोमानि भूत्वा त्वचं प्रविशत्** — *“The herbs and trees, having become hair, entered the skin.”*
+**औषधि-वनस्पतयः लोमानि भूत्वा त्वचं प्रविशत्** — *“The herbs and trees, having become hair, entered the skin.”*  
 auṣadhi-vanaspatayaḥ – herbs and trees │ lomāni – hair │ bhūtvā – having become │ tvacaṃ – skin │ praviśat – entered
 
 > **Note:** Hair and vegetation share structure and function—growth at the surface; **micro-macro continuity**.
 
-**चन्द्रमाः मनः भूत्वा हृदयं प्रविशत्** — *“The Moon, having become the mind, entered the heart.”*
+**चन्द्रमाः मनः भूत्वा हृदयं प्रविशत्** — *“The Moon, having become the mind, entered the heart.”*  
 candramaḥ – Moon │ manaḥ – mind │ bhūtvā – having become │ hṛdayam – heart │ praviśat – entered
 
 > **Note:** The Moon symbolizes the **rhythmic flux of thought and emotion**.
 
-**मृत्युः अपानः भूत्वा नाभिं प्रविशत्** — *“Death, having become the downward breath, entered the navel.”*
+**मृत्युः अपानः भूत्वा नाभिं प्रविशत्** — *“Death, having become the downward breath, entered the navel.”*  
 mṛtyuḥ – Death │ apānaḥ – downward vital current │ bhūtvā – having become │ nābhiṃ – navel │ praviśat – entered
 
 > **Note:** Apāna governs elimination; its cosmic aspect is **dissolution (Mṛtyu)**.
 
-**आपः रेतः भूत्वा शिश्नं प्रविशत्** — *“Waters, having become seed, entered the generative organ.”*
+**आपः रेतः भूत्वा शिश्नं प्रविशत्** — *“Waters, having become seed, entered the generative organ.”*  
 āpaḥ – waters │ retaḥ – seed │ bhūtvā – having become │ śiśnam – generative organ │ praviśat – entered
 
 > **Note:** Creative potential returns to its fluid origin; the cycle of manifestation closes with fertility.
@@ -394,29 +394,29 @@ mṛtyuḥ – Death │ apānaḥ – downward vital current │ bhūtvā – h
 
 ## **Verse 2.5 — What About Hunger and Thirst?**
 
-|                                                                             |                                                                                                       |
-| --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| तं अशनायापिपासे अब्रूताम्—आवाभ्याम् अभिप्रजानिहि इति ।                      | Hunger and Thirst said to Him, “Find an abode for us also.”                                           |
-| ताभ्याम् अब्रवीत्—एतास्वेव वां देवतास्व् आभजामि, एतासु भागिन्यौ करोमि इति । | He said to them, “Among these very Deities I assign you both a share; I make you partners with them.” |
-| तस्मात् यस्यै कस्यै च देवतायै हविः गृह्यते, भागिन्यावेव अशनायापिपासे भवतः । | Therefore, to whichever Deity an offering is made, Hunger and Thirst are also its partakers.          |
+|                                                                |                                                                                                       |
+| -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| तं अशनायापिपासे अब्रूताम्—आवाभ्याम् अभिप्रजानिहि इति ।                    | Hunger and Thirst said to Him, “Find an abode for us also.”                                           |
+| ताभ्याम् अब्रवीत्—एतास्वेव वां देवतास्व् आभजामि, एतासु भागिन्यौ करोमि इति ।     | He said to them, “Among these very Deities I assign you both a share; I make you partners with them.” |
+| तस्मात् यस्यै कस्यै च देवतायै हविः गृह्यते, भागिन्यावेव अशनायापिपासे भवतः ।      | Therefore, to whichever Deity an offering is made, Hunger and Thirst are also its partakers.          |
 
 ---
 
-**तं अशनायापिपासे अब्रूताम्—आवाभ्याम् अभिप्रजानिहि इति।** — *“Hunger and Thirst said to Him: ‘Find an abode for us also.’”*
+**तं अशनायापिपासे अब्रूताम्—आवाभ्याम् अभिप्रजानिहि इति।** — *“Hunger and Thirst said to Him: ‘Find an abode for us also.’”*  
 tam – to Him (the Lord) │ aśanāyā – hunger │ apipāse – thirst │ abhrūtām – both said │ āvābhyām – for us two │ abhiprajānīhi – provide, create an abode │ iti – thus
 
 > **Note:** Hunger (*aśanā*) and thirst (*pipāsā*) are not organs or deities but **psychological drives**—the compulsion for sustenance and continuity. Their plea personifies *need* itself.
 
 ---
 
-**ताभ्याम् अब्रवीत्—एतास्वेव वां देवतास्व् आभजामि, एतासु भागिन्यौ करोमि इति।** — *“He said to them: ‘Among these very gods I assign you both a share; I make you partners with them.’”*
+**ताभ्याम् अब्रवीत्—एतास्वेव वां देवतास्व् आभजामि, एतासु भागिन्यौ करोमि इति।** — *“He said to them: ‘Among these very gods I assign you both a share; I make you partners with them.’”*  
 tābhyām – to them │ abravīt – He said │ etāsu eva – among these very │ vām – to you two │ devatāsu – in the Deities │ ābhajāmi – I assign/share │ etāsu – among these │ bhāginyaḥ – sharers/partners │ karomi – I make │ iti – thus
 
 > **Note:** Rather than granting them a separate place, the Lord integrates hunger and thirst within every function. This ensures **interdependence**—all faculties must cooperate to obtain nourishment.
 
 ---
 
-**तस्मात् यस्यै कस्यै च देवतायै हविः गृह्यते, भागिन्यावेव अशनायापिपासे भवतः।** — *“Therefore, to whichever Deity an offering is made, Hunger and Thirst also receive their share.”*
+**तस्मात् यस्यै कस्यै च देवतायै हविः गृह्यते, भागिन्यावेव अशनायापिपासे भवतः।** — *“Therefore, to whichever Deity an offering is made, Hunger and Thirst also receive their share.”*  
 tasmāt – therefore │ yasyai kasyai ca – to whichever │ devatāyai – deity │ haviḥ – oblation, offering │ gṛhyate – is taken, accepted │ bhāginyaḥ – sharers │ eva – indeed │ aśanāyā-pipāse – hunger and thirst │ bhavataḥ – become, are
 
 > **Note:** In every act of offering, two unseen participants—hunger and thirst—are always satisfied first. This metaphorically declares that **no action or ritual is free from basic need and dependence**.
@@ -455,19 +455,19 @@ Verse 3.10: The Apana Tries – Success at Last!
 
 |                                     |                                                              |
 | ----------------------------------- | ------------------------------------------------------------ |
-| स ईक्षत—इमे नु लोकाः च लोकपालाः च । | He reflected: “Here now are the worlds and their guardians.” |
-| अन्नम् एभ्यः सृजा इति ।             | “Let Me create food for them.”                               |
+| स ईक्षत—इमे नु लोकाः च लोकपालाः च ।     | He reflected: “Here now are the worlds and their guardians.” |
+| अन्नम् एभ्यः सृजा इति ।                  | “Let Me create food for them.”                               |
 
 ---
 
-**स ईक्षत—इमे नु लोकाः च लोकपालाः च।** — *“He reflected: ‘Here now are the worlds and their guardians.’”*
+**स ईक्षत—इमे नु लोकाः च लोकपालाः च।** — *“He reflected: ‘Here now are the worlds and their guardians.’”*  
 sa – He (the Lord, Ātman) │ īkṣata – deliberated, observed │ ime – these │ nu – indeed │ lokāḥ – worlds │ ca – and │ lokapālāḥ – their protectors or deities │ ca – and
 
 > **Note:** The Creator surveys what has been done so far—worlds and their Deities established. The next logical need arises: **sustenance.**
 
 ---
 
-**अन्नम् एभ्यः सृजा इति।** — *“Let Me create food for them.”*
+**अन्नम् एभ्यः सृजा इति।** — *“Let Me create food for them.”*  
 annam – food, nourishment │ ebhyaḥ – for them (the Deities and beings) │ sṛjā – let Me create │ iti – thus
 
 > **Note:** “Food” (*anna*) here is more than physical substance; it is **the universal principle of nourishment**, the exchange by which all forms sustain one another.
@@ -485,29 +485,29 @@ annam – food, nourishment │ ebhyaḥ – for them (the Deities and beings) �
 
 ## **Verse 3.2 — The Cosmic ‘Soup’-Kitchen**
 
-|                                                       |                                                                                                |
-| ----------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| सः आपः अभ्यतपत् । ताभ्यः अभितप्ताभ्यः मूर्तिः अजायत । | He brooded upon the waters; from those waters, thus heated by his contemplation, a form arose. |
-| या वै सा मूर्तिः अजायत, अन्नं वै तत् ।                | The form that was produced was indeed Food.                                                    |
-| तत् एनत् सृष्टं पराङ् अतिजिघांसत् ।                   | But that food, when created, tried to run away!                                                |
+|                                                   |                                                                                                |
+| --------------------------------------------------| ---------------------------------------------------------------------------------------------- |
+| सः आपः अभ्यतपत् । ताभ्यः अभितप्ताभ्यः मूर्तिः अजायत ।       | He brooded upon the waters; from those waters, thus heated by his contemplation, a form arose. |
+| या वै सा मूर्तिः अजायत, अन्नं वै तत् ।                     | The form that was produced was indeed Food.                                                    |
+| तत् एनत् सृष्टं पराङ् अतिजिघांसत् ।                        | But that food, when created, tried to run away!                                               |
 
 ---
 
-**सः आपः अभ्यतपत् । ताभ्यः अभितप्ताभ्यः मूर्तिः अजायत।** — *“He brooded upon the waters; from those waters, thus heated, a form arose.”*
+**सः आपः अभ्यतपत् । ताभ्यः अभितप्ताभ्यः मूर्तिः अजायत।** — *“He brooded upon the waters; from those waters, thus heated, a form arose.”*  
 saḥ – He (the Lord) │ āpaḥ – the waters, the primordial causal substrate │ abhyatapat – brooded upon, performed tapas (creative heat) │ tābhyaḥ – from them │ abhitaptābhyaḥ – being thus heated, energized │ mūrtiḥ – a form, shape, embodiment │ ajāyata – was born, arose
 
 > **Note:** “Brooding upon the waters” is the archetype of **meditative creation**—awareness focusing until potential crystallizes into form. The *waters* here signify the **causal matrix** (unmanifest energy of life).
 
 ---
 
-**या वै सा मूर्तिः अजायत, अन्नं वै तत्।** — *“That form which was produced was indeed Food.”*
+**या वै सा मूर्तिः अजायत, अन्नं वै तत्।** — *“That form which was produced was indeed Food.”*  
 yā – which │ vai – indeed │ sā – that │ mūrtiḥ – form │ ajāyata – arose │ annam – food │ vai – verily │ tat – that
 
 > **Note:** The first solidified “form” of the universe is **food**—the principle of nourishment, matter, and sustenance. *Anna* means both **that which is eaten and that which becomes the eater.**
 
 ---
 
-**तत् एनत् सृष्टं पराङ् अतिजिघांसत्।** — *“But that food, once created, tried to run away.”*
+**तत् एनत् सृष्टं पराङ् अतिजिघांसत्।** — *“But that food, once created, tried to run away.”*  
 tat – that (food) │ enat – this creation │ sṛṣṭam – having been created │ parāṅ – away, outward │ atijighāṃsat – desired to flee, attempted to escape
 
 > **Note:** The humorous imagery conceals deep insight: **objects elude the subject**—food (world) and eater (life) engage in perpetual chase. It also suggests the **impermanence** of all sustenance—what is created tends to disperse.
@@ -526,21 +526,21 @@ tat – that (food) │ enat – this creation │ sṛṣṭam – having been 
 
 ## **Verse 3.3 — Speech Tries to Catch the Food**
 
-|                                                                       |                                                                                                               |
-| --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+|                                                           |                                                                                                               |
+| ----------------------------------------------------------| ------------------------------------------------------------------------------------------------------------- |
 | तत् वाचा अजिघृक्षत् । तत् न अशक्नोत् वाचा ग्रहीतुं ।                  | He tried to seize it with Speech, but could not grasp it by Speech.                                           |
-| स यद् हि एनत् वाचा अग्रहिष्यत्, अभिव्याहृत्य ह एव अन्नं अत्रप्स्यत् । | For if he could have caught food by Speech, he would have been satisfied merely by uttering words about food! |
+| स यद् हि एनत् वाचा अग्रहिष्यत्, अभिव्याहृत्य ह एव अन्नं अत्रप्स्यत् ।      | For if he could have caught food by Speech, he would have been satisfied merely by uttering words about food! |
 
 ---
 
-**तत् वाचा अजिघृक्षत् । तत् न अशक्नोत् वाचा ग्रहीतुं।** — *“He tried to seize it with Speech, but could not grasp it by Speech.”*
+**तत् वाचा अजिघृक्षत् । तत् न अशक्नोत् वाचा ग्रहीतुं।** — *“He tried to seize it with Speech, but could not grasp it by Speech.”*  
 tat – that (food) │ vācā – with speech │ ajighṛkṣat – desired to seize, attempted to grasp │ tat – it │ na – not │ aśaknot – was able │ vācā – by speech │ grahītum – to grasp
 
 > **Note:** “Speech” (vāk) is the first faculty that attempts engagement with the objective world. It fails because **mere naming or talking about things cannot confer possession or satisfaction.**
 
 ---
 
-**स यद् हि एनत् वाचा अग्रहिष्यत्, अभिव्याहृत्य ह एव अन्नं अत्रप्स्यत्।** — *“For if he could have caught food by Speech, he would have been satisfied merely by uttering words about food.”*
+**स यद् हि एनत् वाचा अग्रहिष्यत्, अभिव्याहृत्य ह एव अन्नं अत्रप्स्यत्।** — *“For if he could have caught food by Speech, he would have been satisfied merely by uttering words about food.”*  
 sa – he │ yad – if │ hi – indeed │ enat – this (food) │ vācā – by speech │ agrahīṣyat – could grasp │ abhivyāhṛtya – having spoken, articulated │ ha eva – just by that │ annam – food │ atrapsyat – would have been satisfied
 
 > **Note:** This ironic statement is an early **epistemological critique**—language denotes but cannot deliver experience. **Concepts and reality differ.** Saying “food” does not end hunger.
@@ -558,21 +558,21 @@ sa – he │ yad – if │ hi – indeed │ enat – this (food) │ vācā �
 
 ## **Verse 3.4 — The Breath Tries to Catch It**
 
-|                                                                       |                                                                                               |
-| --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+|                                                      |                                                                                               |
+| ---------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | तत् प्राणेन अजिघृक्षत् । तत् न अशक्नोत् प्राणेन ग्रहीतुं ।            | He tried to seize it with the Breath, but could not grasp it by Breath.                       |
-| स यद् हि एनत् प्राणेन अग्रहिष्यत्, प्राण्यन् ह एव अन्नं अत्रप्स्यत् । | For if he could have caught food by Breath, he would have been satisfied merely by breathing! |
+| स यद् हि एनत् प्राणेन अग्रहिष्यत्, प्राण्यन् ह एव अन्नं अत्रप्स्यत् ।     | For if he could have caught food by Breath, he would have been satisfied merely by breathing! |
 
 ---
 
-**तत् प्राणेन अजिघृक्षत् । तत् न अशक्नोत् प्राणेन ग्रहीतुं।** — *“He tried to seize it with the Breath, but could not grasp it by Breath.”*
+**तत् प्राणेन अजिघृक्षत् । तत् न अशक्नोत् प्राणेन ग्रहीतुं।** — *“He tried to seize it with the Breath, but could not grasp it by Breath.”*  
 tat – that (food) │ prāṇena – with breath, the life-force │ ajighṛkṣat – tried to seize │ tat – it │ na – not │ aśaknot – was able │ prāṇena – by breath │ grahītum – to grasp
 
 > **Note:** Breath (prāṇa) symbolizes **vital activity**. Though it sustains life, it cannot fulfill life’s hunger for wholeness. Breathing alone doesn’t nourish; it only maintains movement.
 
 ---
 
-**स यद् हि एनत् प्राणेन अग्रहिष्यत्, प्राण्यन् ह एव अन्नं अत्रप्स्यत्।** — *“For if he could have caught food by Breath, he would have been satisfied merely by breathing.”*
+**स यद् हि एनत् प्राणेन अग्रहिष्यत्, प्राण्यन् ह एव अन्नं अत्रप्स्यत्।** — *“For if he could have caught food by Breath, he would have been satisfied merely by breathing.”*  
 sa – he │ yad hi – if indeed │ enat – this (food) │ prāṇena – with breath │ agrahīṣyat – could grasp │ prāṇyan – by breathing │ ha eva – just thus │ annam – food │ atrapsyat – would have been satisfied
 
 > **Note:** This extends the previous irony: **activity without true contact cannot yield satisfaction.** The mere motion of breathing cannot reach or integrate what is sought.
@@ -590,21 +590,21 @@ sa – he │ yad hi – if indeed │ enat – this (food) │ prāṇena – w
 
 ## **Verse 3.5 — The Eyes Try to Catch It**
 
-|                                                                    |                                                                                              |
-| ------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- |
-| तत् चक्षुषा अजिघृक्षत् । तत् न अशक्नोत् चक्षुषा ग्रहीतुं ।         | He tried to seize it with the eyes, but could not grasp it by sight.                         |
-| स यद् हि एनत् चक्षुषा अग्रहिष्यत्, पश्यन् ह एव अन्नं अत्रप्स्यत् । | For if he could have caught food by sight, he would have been satisfied merely by seeing it. |
+|                                                        |                                                                                              |
+| ------------------------------------------------------ | -------------------------------------------------------------------------------------------- |
+| तत् चक्षुषा अजिघृक्षत् । तत् न अशक्नोत् चक्षुषा ग्रहीतुं ।             | He tried to seize it with the eyes, but could not grasp it by sight.                         |
+| स यद् हि एनत् चक्षुषा अग्रहिष्यत्, पश्यन् ह एव अन्नं अत्रप्स्यत् ।      | For if he could have caught food by sight, he would have been satisfied merely by seeing it. |
 
 ---
 
-**तत् चक्षुषा अजिघृक्षत् । तत् न अशक्नोत् चक्षुषा ग्रहीतुं।** — *“He tried to seize it with the eyes, but could not grasp it by sight.”*
+**तत् चक्षुषा अजिघृक्षत् । तत् न अशक्नोत् चक्षुषा ग्रहीतुं।** — *“He tried to seize it with the eyes, but could not grasp it by sight.”*  
 tat – that (food) │ cakṣuṣā – with the eyes │ ajighṛkṣat – tried to seize │ tat – it │ na – not │ aśaknot – was able │ cakṣuṣā – by sight │ grahītum – to grasp
 
 > **Note:** Vision provides *knowledge of distance*, not possession. The **eye perceives but does not obtain**. Awareness of an object through sight does not dissolve separation.
 
 ---
 
-**स यद् हि एनत् चक्षुषा अग्रहिष्यत्, पश्यन् ह एव अन्नं अत्रप्स्यत्।** — *“For if he could have caught food by sight, he would have been satisfied merely by seeing it.”*
+**स यद् हि एनत् चक्षुषा अग्रहिष्यत्, पश्यन् ह एव अन्नं अत्रप्स्यत्।** — *“For if he could have caught food by sight, he would have been satisfied merely by seeing it.”*  
 sa – he │ yad hi – if indeed │ enat – this (food) │ cakṣuṣā – with the eyes │ agrahīṣyat – could grasp │ paśyan – seeing │ ha eva – merely thus │ annam – food │ atrapsyat – would have been satisfied
 
 > **Note:** The Upanishad playfully notes the futility of *visual knowing* as nourishment. Seeing is a **cognitive act**, not a **transformative union**. The seer remains separate from the seen.
@@ -622,21 +622,21 @@ sa – he │ yad hi – if indeed │ enat – this (food) │ cakṣuṣā –
 
 ## **Verse 3.6 — The Ears Try (and Fail)**
 
-|                                                                       |                                                                                                |
-| --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| तत् श्रोत्रेण अजिघृक्षत् । तत् न अशक्नोत् श्रोत्रेण ग्रहीतुं ।        | He tried to seize it with the ears, but could not grasp it by hearing.                         |
-| स यद् हि एनत् श्रोत्रेण अग्रहिष्यत्, शृण्वन् ह एव अन्नं अत्रप्स्यत् । | For if he could have caught food by hearing, he would have been satisfied merely by listening! |
+|                                                     |                                                                                                |
+| --------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| तत् श्रोत्रेण अजिघृक्षत् । तत् न अशक्नोत् श्रोत्रेण ग्रहीतुं ।           | He tried to seize it with the ears, but could not grasp it by hearing.                         |
+| स यद् हि एनत् श्रोत्रेण अग्रहिष्यत्, शृण्वन् ह एव अन्नं अत्रप्स्यत् ।    | For if he could have caught food by hearing, he would have been satisfied merely by listening! |
 
 ---
 
-**तत् श्रोत्रेण अजिघृक्षत् । तत् न अशक्नोत् श्रोत्रेण ग्रहीतुं।** — *“He tried to seize it with the ears, but could not grasp it by hearing.”*
+**तत् श्रोत्रेण अजिघृक्षत् । तत् न अशक्नोत् श्रोत्रेण ग्रहीतुं।** — *“He tried to seize it with the ears, but could not grasp it by hearing.”*  
 tat – that (food) │ śrotreṇa – with the ear │ ajighṛkṣat – tried to seize │ tat – it │ na – not │ aśaknot – was able │ śrotreṇa – by hearing │ grahītum – to grasp
 
 > **Note:** Hearing captures only **vibrations and representations**, not the substance itself. The act of listening engages cognition but does not satisfy existential need.
 
 ---
 
-**स यद् हि एनत् श्रोत्रेण अग्रहिष्यत्, शृण्वन् ह एव अन्नं अत्रप्स्यत्।** — *“For if he could have caught food by hearing, he would have been satisfied merely by listening.”*
+**स यद् हि एनत् श्रोत्रेण अग्रहिष्यत्, शृण्वन् ह एव अन्नं अत्रप्स्यत्।** — *“For if he could have caught food by hearing, he would have been satisfied merely by listening.”*  
 sa – he │ yad hi – if indeed │ enat – this (food) │ śrotreṇa – by hearing │ agrahīṣyat – could grasp │ śṛṇvan – hearing, listening │ ha eva – merely thus │ annam – food │ atrapsyat – would have been satisfied
 
 > **Note:** The Upanishadic humor continues: **sound cannot feed**; even the sweetest hymn leaves hunger intact. Hearing gives knowledge *about*, not *union with*, the object.
@@ -654,21 +654,21 @@ sa – he │ yad hi – if indeed │ enat – this (food) │ śrotreṇa – 
 
 ## **Verse 3.7 — The Skin Also Fails**
 
-|                                                                   |                                                                                                |
-| ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+|                                                     |                                                                                                |
+| ----------------------------------------------------| ---------------------------------------------------------------------------------------------- |
 | तत् त्वचा अजिघृक्षत् । तत् न अशक्नोत् त्वचा ग्रहीतुं ।            | He tried to seize it with the skin, but could not grasp it by touch.                           |
-| स यद् हि एनत् त्वचा अग्रहिष्यत्, स्पृशन् ह एव अन्नं अत्रप्स्यत् । | For if he could have caught food by touch, he would have been satisfied merely by touching it. |
+| स यद् हि एनत् त्वचा अग्रहिष्यत्, स्पृशन् ह एव अन्नं अत्रप्स्यत् ।    | For if he could have caught food by touch, he would have been satisfied merely by touching it. |
 
 ---
 
-**तत् त्वचा अजिघृक्षत् । तत् न अशक्नोत् त्वचा ग्रहीतुं।** — *“He tried to seize it with the skin, but could not grasp it by touch.”*
+**तत् त्वचा अजिघृक्षत् । तत् न अशक्नोत् त्वचा ग्रहीतुं।** — *“He tried to seize it with the skin, but could not grasp it by touch.”*  
 tat – that (food) │ tvacā – with the skin │ ajighṛkṣat – tried to seize │ tat – it │ na – not │ aśaknot – was able │ tvacā – by touch │ grahītum – to grasp
 
 > **Note:** Touch yields only **sensation**, not possession. The sense of contact remains external; it does not unite subject and object.
 
 ---
 
-**स यद् हि एनत् त्वचा अग्रहिष्यत्, स्पृशन् ह एव अन्नं अत्रप्स्यत्।** — *“For if he could have caught food by touch, he would have been satisfied merely by touching it.”*
+**स यद् हि एनत् त्वचा अग्रहिष्यत्, स्पृशन् ह एव अन्नं अत्रप्स्यत्।** — *“For if he could have caught food by touch, he would have been satisfied merely by touching it.”*  
 sa – he │ yad hi – if indeed │ enat – this (food) │ tvacā – by skin │ agrahīṣyat – could grasp │ spṛśan – touching │ ha eva – merely thus │ annam – food │ atrapsyat – would have been satisfied
 
 > **Note:** Even physical proximity fails to yield satisfaction. Touch brings awareness of difference—**I who touch** and **that which is touched**—but not the unity that nourishes.
@@ -686,21 +686,21 @@ sa – he │ yad hi – if indeed │ enat – this (food) │ tvacā – by sk
 
 ## **Verse 3.8 — The Mind Fails to Catch It**
 
-|                                                                   |                                                                                                     |
-| ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| तत् मनसा अजिघृक्षत् । तत् न अशक्नोत् मनसा ग्रहीतुं ।              | He tried to seize it with the mind, but could not grasp it by the mind.                             |
-| स यद् हि एनत् मनसा अग्रहिष्यत्, चिन्तयन् ह एव अन्नं अत्रप्स्यत् । | For if he could have caught food by thought, he would have been satisfied merely by thinking of it. |
+|                                                        |                                                                                                     |
+| -------------------------------------------------------| --------------------------------------------------------------------------------------------------- |
+| तत् मनसा अजिघृक्षत् । तत् न अशक्नोत् मनसा ग्रहीतुं ।             | He tried to seize it with the mind, but could not grasp it by the mind.                             |
+| स यद् हि एनत् मनसा अग्रहिष्यत्, चिन्तयन् ह एव अन्नं अत्रप्स्यत् ।     | For if he could have caught food by thought, he would have been satisfied merely by thinking of it. |
 
 ---
 
-**तत् मनसा अजिघृक्षत् । तत् न अशक्नोत् मनसा ग्रहीतुं।** — *“He tried to seize it with the mind, but could not grasp it by the mind.”*
+**तत् मनसा अजिघृक्षत् । तत् न अशक्नोत् मनसा ग्रहीतुं।** — *“He tried to seize it with the mind, but could not grasp it by the mind.”*  
 tat – that (food) │ manasā – with the mind │ ajighṛkṣat – tried to seize │ tat – it │ na – not │ aśaknot – was able │ manasā – by the mind │ grahītum – to grasp
 
 > **Note:** The **mind** reaches through thought, concept, or imagination. It can represent or recall food but cannot assimilate it. Mere mental activity lacks direct contact with reality.
 
 ---
 
-**स यद् हि एनत् मनसा अग्रहिष्यत्, चिन्तयन् ह एव अन्नं अत्रप्स्यत्।** — *“For if he could have caught food by the mind, he would have been satisfied merely by thinking of it.”*
+**स यद् हि एनत् मनसा अग्रहिष्यत्, चिन्तयन् ह एव अन्नं अत्रप्स्यत्।** — *“For if he could have caught food by the mind, he would have been satisfied merely by thinking of it.”*  
 sa – he │ yad hi – if indeed │ enat – this (food) │ manasā – by the mind │ agrahīṣyat – could grasp │ cintayan – thinking │ ha eva – merely thus │ annam – food │ atrapsyat – would have been satisfied
 
 > **Note:** The text satirizes **intellectualism**: thinking about nourishment does not remove hunger. The mind traffics in symbols, not in substance.
@@ -718,21 +718,21 @@ sa – he │ yad hi – if indeed │ enat – this (food) │ manasā – by t
 
 ## **Verse 3.9 — The Genitals Try – A Dismal Failure!**
 
-|                                                                        |                                                                                            |
-| ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| तत् शिश्नेन अजिघृक्षत् । तत् न अशक्नोत् शिश्नेन ग्रहीतुं ।             | He tried to seize it with the generative organ, but could not grasp it thereby.            |
-| स यद् हि एनत् शिश्नेन अग्रहिष्यत्, रेतस्यमानः ह एव अन्नं अत्रप्स्यत् । | For if he could have caught food by that, he would have been satisfied merely by emission! |
+|                                                         |                                                                                            |
+| ------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| तत् शिश्नेन अजिघृक्षत् । तत् न अशक्नोत् शिश्नेन ग्रहीतुं ।               | He tried to seize it with the generative organ, but could not grasp it thereby.            |
+| स यद् हि एनत् शिश्नेन अग्रहिष्यत्, रेतस्यमानः ह एव अन्नं अत्रप्स्यत् ।     | For if he could have caught food by that, he would have been satisfied merely by emission! |
 
 ---
 
-**तत् शिश्नेन अजिघृक्षत् । तत् न अशक्नोत् शिश्नेन ग्रहीतुं।** — *“He tried to seize it with the generative organ, but could not grasp it thereby.”*
+**तत् शिश्नेन अजिघृक्षत् । तत् न अशक्नोत् शिश्नेन ग्रहीतुं।** — *“He tried to seize it with the generative organ, but could not grasp it thereby.”*  
 tat – that (food) │ śiśnena – with the generative organ │ ajighṛkṣat – tried to seize │ tat – it │ na – not │ aśaknot – was able │ śiśnena – by the organ │ grahītum – to grasp
 
 > **Note:** The generative faculty seeks fulfillment through creation and pleasure, but it too fails to bring lasting satisfaction. Its act disperses energy outward rather than uniting with the source.
 
 ---
 
-**स यद् हि एनत् शिश्नेन अग्रहिष्यत्, रेतस्यमानः ह एव अन्नं अत्रप्स्यत्।** — *“For if he could have caught food by that, he would have been satisfied merely by emission.”*
+**स यद् हि एनत् शिश्नेन अग्रहिष्यत्, रेतस्यमानः ह एव अन्नं अत्रप्स्यत्।** — *“For if he could have caught food by that, he would have been satisfied merely by emission.”*  
 sa – he │ yad hi – if indeed │ enat – this (food) │ śiśnena – by the organ │ agrahīṣyat – could grasp │ retasyamānaḥ – emitting seed │ ha eva – merely thus │ annam – food │ atrapsyat – would have been satisfied
 
 > **Note:** The passage uses earthy humor to make a metaphysical point: **pleasure, reproduction, and creation of forms** are not true nourishment. Generation multiplies separation; it does not dissolve it.
@@ -752,19 +752,19 @@ sa – he │ yad hi – if indeed │ enat – this (food) │ śiśnena – by
 
 |                                                 |                                                                                                   |
 | ----------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| तत् अपानेन अजिघृक्षत् । स तत् अपानेन अग्रहीत् । | He tried to seize it with the Apāna (the downward-moving breath), and he grasped it successfully. |
-| स एतत् अन्नं अग्रहीत् ।                         | Thus, through Apāna, he caught and held the food.                                                 |
+| तत् अपानेन अजिघृक्षत् । स तत् अपानेन अग्रहीत् ।          | He tried to seize it with the Apāna (the downward-moving breath), and he grasped it successfully. |
+| स एतत् अन्नं अग्रहीत् ।                               | Thus, through Apāna, he caught and held the food.                                                 |
 
 ---
 
-**तत् अपानेन अजिघृक्षत् । स तत् अपानेन अग्रहीत्।** — *“He tried to seize it with the Apāna, and he grasped it successfully.”*
+**तत् अपानेन अजिघृक्षत् । स तत् अपानेन अग्रहीत्।** — *“He tried to seize it with the Apāna, and he grasped it successfully.”*  
 tat – that (food) │ apānena – with the Apāna (downward-moving vital current) │ ajighṛkṣat – tried to seize │ saḥ – he │ tat – that │ apānena – by Apāna │ agrahīt – grasped, caught
 
 > **Note:** *Apāna* governs **ingestion and elimination**—the vital force responsible for intake, digestion, and grounding. Unlike the other faculties, it achieves contact because **food must enter the body to nourish it**. This marks the **first real assimilation** between subject and object.
 
 ---
 
-**स एतत् अन्नं अग्रहीत्।** — *“Thus, through Apāna, he caught and held the food.”*
+**स एतत् अन्नं अग्रहीत्।** — *“Thus, through Apāna, he caught and held the food.”*  
 saḥ – he │ etat – this │ annam – food │ agrahīt – grasped, held
 
 > **Note:** Here the symbolic chase finds resolution. Apāna’s success represents **absorption**—when experience ceases to be external and becomes part of the self-system.
@@ -794,13 +794,13 @@ Verse 3.14: From Idandra to Indra – Knowledge to Ignorance!
 
 ## **Verse 3.11 — The Lord Almost Forgot Himself**
 
-|                                                                                            |                                                                                                                 |
-| ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- |
-| तम् अन्नं अभ्यतपत्त् । स अन्नेन अभितप्तः अस्मरत् — “कथं नु एषम् अनयम्, कः अस्मि अहम् इति।” | He brooded upon that food; being heated by the food, He reflected: “How could this exist without Me? Who am I?” |
+|                                                                                   |                                                                                                                 |
+| --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| तम् अन्नं अभ्यतपत्त् । स अन्नेन अभितप्तः अस्मरत् — “कथं नु एषम् अनयम्, कः अस्मि अहम् इति।”       | He brooded upon that food; being heated by the food, He reflected: “How could this exist without Me? Who am I?” |
 
 ---
 
-**तम् अन्नं अभ्यतपत्त् । स अन्नेन अभितप्तः अस्मरत् — “कथं नु एषम् अनयम्, कः अस्मि अहम् इति।”** — *“He brooded upon that food; and being heated by it, He remembered, saying: ‘How indeed could this exist without Me? Who am I?’”*
+**तम् अन्नं अभ्यतपत्त् । स अन्नेन अभितप्तः अस्मरत् — “कथं नु एषम् अनयम्, कः अस्मि अहम् इति।”** — *“He brooded upon that food; and being heated by it, He remembered, saying: ‘How indeed could this exist without Me? Who am I?’”*  
 tam – that (food) │ annam – food │ abhyatapat – He brooded upon, directed tapas toward │ saḥ – He │ annena – by the food │ abhitaptaḥ – heated, affected, influenced │ asmarat – remembered, reflected │ katham – how │ nu – indeed │ eṣam – this (being) │ anayām – could exist, be sustained │ kaḥ – who │ asmi – am │ aham – I │ iti – thus
 
 > **Note:** After food (the objective world) appeared, consciousness identified with its manifestation, forgetting its own self-luminosity. Then awareness “remembers” itself through self-inquiry: “Who am I?” The text anthropomorphizes Brahman’s **self-recognition**.
@@ -827,13 +827,13 @@ tam – that (food) │ annam – food │ abhyatapat – He brooded upon, direc
 
 ## **Verse 3.12 — The Lord Enters Majestically!**
 
-|                                                                        |                                                                                          |
-| ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| स इदं सर्वं असृजत् यत् इदम् किञ्च । तत् उपास्मृत्य, सः एनम् प्रविवेश । | He created all this — whatever there is here. And, contemplating it, He entered into it. |
+|                                                               |                                                                                          |
+| ------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| स इदं सर्वं असृजत् यत् इदम् किञ्च । तत् उपास्मृत्य, सः एनम् प्रविवेश ।       | He created all this — whatever there is here. And, contemplating it, He entered into it. |
 
 ---
 
-**स इदं सर्वं असृजत् यत् इदम् किञ्च। तत् उपास्मृत्य, सः एनम् प्रविवेश।** — *“He created all this—whatever exists here; and having contemplated it, He entered into it.”*
+**स इदं सर्वं असृजत् यत् इदम् किञ्च। तत् उपास्मृत्य, सः एनम् प्रविवेश।** — *“He created all this—whatever exists here; and having contemplated it, He entered into it.”*  
 saḥ – He (the Lord, Ātman) │ idam – this (universe) │ sarvam – all │ asṛjat – created │ yat – whatever │ idam kiñca – there is here │ tat – that │ upasmṛtya – having recollected, reflected upon │ saḥ – He │ enam – into it │ praviveśa – entered
 
 > **Note:** After creation, the same Consciousness “enters” its own manifestation as **immanent life and awareness within every form**. This is the **divine indwelling**—the spark of consciousness in all beings.
@@ -866,16 +866,16 @@ saḥ – He (the Lord, Ātman) │ idam – this (universe) │ sarvam – all 
 
 ## **Verse 3.13 — “Oh! I Have Seen This Before!”**
 
-|                                                                                  |                                                                                                                 |
-| -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| स एतं एव पुरुषं ब्रह्म तत्त्वेन उपलभ्य, “अहो, अहम् इदं पूर्वं अपश्यं इति” उवाच । | Having entered and perceived this very Person (Puruṣa) as Brahman, He exclaimed, “Ah! I have seen this before!” |
+|                                                                        |                                                                                                                 |
+| -----------------------------------------------------------------------| --------------------------------------------------------------------------------------------------------------- |
+| स एतं एव पुरुषं ब्रह्म तत्त्वेन उपलभ्य, “अहो, अहम् इदं पूर्वं अपश्यं इति” उवाच ।         | Having entered and perceived this very Person (Puruṣa) as Brahman, He exclaimed, “Ah! I have seen this before!” |
 
 ---
 
-**स एतं एव पुरुषं ब्रह्म तत्त्वेन उपलभ्य, “अहो, अहम् इदं पूर्वम् अपश्यं इति” उवाच।** — *“Having realized this very Person as Brahman, He said, ‘Ah! I have seen this before!’”*
+**स एतं एव पुरुषं ब्रह्म तत्त्वेन उपलभ्य, “अहो, अहम् इदं पूर्वम् अपश्यं इति” उवाच।** — *“Having realized this very Person as Brahman, He said, ‘Ah! I have seen this before!’”*  
 saḥ – He (the Lord, Ātman) │ etam eva – this very (being) │ puruṣam – Person (manifested form) │ brahma-tattvena – as Brahman, in its true essence │ upalabhya – having realized, perceived │ aho – oh! (an exclamation of wonder) │ aham – I │ idam – this │ pūrvam – before │ apaśyam – saw │ iti – thus │ uvāca – He said
 
-> **Note:** The Self, now recognizing the living person as none other than itself, rejoices in recognition: *“This form I now see is my own Self that I had forgotten.”*
+> **Note:** The Self, now recognizing the living person as none other than itself, rejoices in recognition: *“This form I now see is my own Self that I had forgotten.”*  
 > The exclamation *“Aho!”* conveys the **marvel of self-recognition**—consciousness realizing that what it perceives outwardly is not foreign but its own reflection.
 
 ---
@@ -900,37 +900,37 @@ saḥ – He (the Lord, Ātman) │ etam eva – this very (being) │ puruṣam
 
 ## **Verse 3.14 — From Idandra to Indra – Knowledge to Ignorance!**
 
-|                                                                    |                                                                                  |
-| ------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
-| तस्मात् एषः इन्द्र इत्येव नाम भवति । तद् एतद् इन्द्रत्वम् इत्येव । | Therefore, He is called *Indra*. This is His *Indra-hood* (rulership, lordship). |
-| देवा ह वै एनम् इन्द्र इति उपासते ।                                 | The gods indeed worship Him as *Indra*.                                          |
-| परं ह्येनम् इदं इन्द्रत्वं अप्रत्यशंसीत् ।                         | But He Himself, this *Indra*, did not openly accept that Indra-hood.             |
-| तस्मात् एतानि देवतानि अप्रत्यशंसन्त ।                              | Therefore, even these gods hide and veil their own real nature.                  |
+|                                                       |                                                                                  |
+| ----------------------------------------------------- | -------------------------------------------------------------------------------- |
+| तस्मात् एषः इन्द्र इत्येव नाम भवति । तद् एतद् इन्द्रत्वम् इत्येव ।      | Therefore, He is called *Indra*. This is His *Indra-hood* (rulership, lordship). |
+| देवा ह वै एनम् इन्द्र इति उपासते ।                           | The gods indeed worship Him as *Indra*.                                          |
+| परं ह्येनम् इदं इन्द्रत्वं अप्रत्यशंसीत् ।                           | But He Himself, this *Indra*, did not openly accept that Indra-hood.             |
+| तस्मात् एतानि देवतानि अप्रत्यशंसन्त ।                          | Therefore, even these gods hide and veil their own real nature.                  |
 
 ---
 
-**तस्मात् एषः इन्द्र इत्येव नाम भवति । तद् एतद् इन्द्रत्वम् इत्येव।** — *“Therefore, He is called Indra; and this indeed is His Indra-hood.”*
+**तस्मात् एषः इन्द्र इत्येव नाम भवति । तद् एतद् इन्द्रत्वम् इत्येव।** — *“Therefore, He is called Indra; and this indeed is His Indra-hood.”*  
 tasmāt – therefore │ eṣaḥ – He (the Self that entered) │ indraḥ iti eva – is thus called *Indra* │ nāma – name │ bhavati – becomes │ tat etat – this indeed │ indratvam – Indra-hood (state of being Indra) │ iti eva – thus indeed
 
 > **Note:** The name *Indra* arises from *Idandra*—“He who has seen (*idam draṣṭā*) this.” Through linguistic contraction (a play on sound and sense), *Idandra* becomes *Indra*. The creative intelligence (Self in all beings) becomes known as the *Lord* or *ruler*.
 
 ---
 
-**देवा ह वै एनम् इन्द्र इति उपासते।** — *“The gods indeed worship Him as Indra.”*
+**देवा ह वै एनम् इन्द्र इति उपासते।** — *“The gods indeed worship Him as Indra.”*  
 devāḥ – the gods │ ha vai – indeed │ enam – Him │ indra iti – as Indra │ upāsate – worship, meditate upon
 
 > **Note:** The cosmic faculties (Devatās) acknowledge that Consciousness within is their ruler and sustainer. *Indra* thus represents **the governing intelligence within all sense-powers**.
 
 ---
 
-**परं ह्येनम् इदं इन्द्रत्वं अप्रत्यशंसीत्।** — *“But He Himself, this Indra, did not proclaim or recognize His own Indra-hood.”*
+**परं ह्येनम् इदं इन्द्रत्वं अप्रत्यशंसीत्।** — *“But He Himself, this Indra, did not proclaim or recognize His own Indra-hood.”*  
 param – but │ hi – indeed │ enam – this one │ idam – this (quality of) │ indratvam – Indra-hood │ apratyashansīt – did not recognize, did not boast of
 
 > **Note:** Once the Self identifies with its manifested form, **ignorance (avidyā)** sets in—it forgets its universal divinity. The ruler becomes the ruled. The awareness that “I am All” turns into “I am this body-mind.”
 
 ---
 
-**तस्मात् एतानि देवतानि अप्रत्यशंसन्त।** — *“Therefore, even these gods conceal their true nature.”*
+**तस्मात् एतानि देवतानि अप्रत्यशंसन्त।** — *“Therefore, even these gods conceal their true nature.”*  
 tasmāt – therefore │ etāni – these │ devatāni – deities (faculties, powers) │ apratyashansanta – do not openly declare, hide their identity
 
 > **Note:** This final irony generalizes the fall: every power of consciousness, once individualized, tends to **mask its divine origin**. Each sense, mind, and faculty acts as if independent, concealing its source in the Self.
@@ -959,7 +959,7 @@ tasmāt – therefore │ etāni – these │ devatāni – deities (faculties,
 Following sections are in separate files  
 
 Part2--The Three Births.md           Chapter 4, 6 Verses           
-Part3--Consciousness is Brahman.md   Chapter 5, 4 Verses  
+Part3--Consciousness is Brahman.md   Chapter 5, 4 Verses   
 
 ---
 
