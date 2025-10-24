@@ -1,6 +1,8 @@
-# Part1: Theory of Creation -- Origin of the cosmos, the gods (Devatās), human embodiment, and food
+# Part 1: Theory of Creation 
+## **Origin of the cosmos, the gods (Devatās), human embodiment, and food**
+---
 
-## Chapter One: Origin of the cosmos 
+# Chapter One: Origin of the cosmos 
 
 - Verse 1.1: Before Creation Began…  
 - Verse 1.2: The Creation of the Worlds  
@@ -206,9 +208,7 @@ nābhiḥ – navel │ nirabhidyata – opened │ nābhyāḥ – from navel �
 
 
 ***
-
-## **Chapter Two: Abodes for the Devatās** 
-
+# **Chapter Two: Abodes for the Devatās** 
 ***
 
 Verse 2.1: The Need for a Smaller Abode – the Individual  
@@ -433,9 +433,7 @@ tasmāt – therefore │ yasyai kasyai ca – to whichever │ devatāyai – d
 
 
 ***
-
-## **Chapter 3 (A): The Creation of Food**
-
+# **Chapter 3 (A): The Creation of Food**
 ***
 
 Verse 3.1: “They Will Be Hungry Soon!”
@@ -780,9 +778,7 @@ saḥ – he │ etat – this │ annam – food │ agrahīt – grasped, held
 
 
 ***
-
 # **Chapter 3 (B): The Lord’s Regal ENTRY**
-
 ***
 
 Verse 3.11: The Lord Almost Forgot Himself
