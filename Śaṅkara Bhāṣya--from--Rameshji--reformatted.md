@@ -1,6 +1,11 @@
 # **Śaṅkara Bhāṣya — Introduction to Aitareya Upaniṣad**
 
-Shankara's commentary on the `Aitareya Upanishad` is notably long, primarily to address and refute arguments favoring the supremacy of ritualistic practices (Karma Kanda) found in the preceding `Aitareya Brahmana`. Opponents argued that knowledge should be combined with rituals and that one must complete rituals before pursuing self-knowledge, raising questions about the necessity of renunciation. Shankara argues against mixing ritualistic and knowledge paths (Jnana Vidya), emphasizing `renunciation` (sannyasa) as the key separator and asserting that dispassion (vairagya), not prior rituals, is the prerequisite for renunciation. His stance is underscored by his own life experience of early renunciation.  
+The Bhashya (Shankara's commentary) on the `Aitareya Upanishad` is notably long, primarily to address and refute arguments favoring the supremacy of ritualistic practices (Karma Kanda) found in the preceding `Aitareya Brahmana`. Poorvapakshi (objectors or Opponents) argued that knowledge should be combined with rituals and that one must complete rituals before pursuing self-knowledge, raising questions about the necessity of renunciation. Shankara argues against mixing ritualistic and knowledge paths (Jnana Vidya), emphasizing `renunciation` (sannyasa) as the key separator and asserting that dispassion (vairagya), not prior rituals, is the prerequisite for renunciation. His stance is underscored by his own life experience of early renunciation.  
+
+Shankara is explicit in saying that one need not go through Karma Kanda in order to pre-qualify for knowledge.  
+The objectors’ main argument is: “Why can Sannyasa (renunciation) not be practised from home?” To this Sri Shankara makes a counter suggestion: “If it makes no difference to
+you then why not go to the forest to practice it?”  Realising that at the root of the objectors’ mind is the fear of losing their hold on worldly pleasures and worldly ‘customers’, Sri Shankara argues directly with them: “It is totally useless for a Vairagi to remain at home. It serves no purpose. The man has gone beyond the needs of the flesh. Why should he stay on at home? You are merely afraid that you will lose all the comforts to which you are attached.” 
+
 
 The Aitareya Brahmana  
 * The `Aitareya Brahmana` is a Vedic text that describes and explains rituals and ceremonies, particularly the Soma sacrifices.
