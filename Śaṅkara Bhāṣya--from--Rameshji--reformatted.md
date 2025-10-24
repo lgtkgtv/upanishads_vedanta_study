@@ -1,13 +1,18 @@
 # **Śaṅkara Bhāṣya — Introduction to Aitareya Upaniṣad**
 
-Shankara's commentary on the Aitareya Upanishad is notably long, primarily to address and refute arguments favoring the supremacy of ritualistic practices (Karma Kanda) found in the preceding `Aitareya Brahmana`. Opponents argued that knowledge should be combined with rituals and that one must complete rituals before pursuing self-knowledge, raising questions about the necessity of renunciation. Shankara argues against mixing ritualistic and knowledge paths (Jnana Vidya), emphasizing `renunciation` (sannyasa) as the key separator and asserting that dispassion (vairagya), not prior rituals, is the prerequisite for renunciation. His stance is underscored by his own life experience of early renunciation.  
+Shankara's commentary on the `Aitareya Upanishad` is notably long, primarily to address and refute arguments favoring the supremacy of ritualistic practices (Karma Kanda) found in the preceding `Aitareya Brahmana`. Opponents argued that knowledge should be combined with rituals and that one must complete rituals before pursuing self-knowledge, raising questions about the necessity of renunciation. Shankara argues against mixing ritualistic and knowledge paths (Jnana Vidya), emphasizing `renunciation` (sannyasa) as the key separator and asserting that dispassion (vairagya), not prior rituals, is the prerequisite for renunciation. His stance is underscored by his own life experience of early renunciation.  
 
-**The Aitareya Brahmana**  
+The Aitareya Brahmana  
 * The `Aitareya Brahmana` is a Vedic text that describes and explains rituals and ceremonies, particularly the Soma sacrifices.
-* The `Aitareya Upanishad`, by contrast, is a later text of philosophical speculation that is **structurally embedded within the Aitareya Brahmana.**  
-* Part of the Rigveda: The Brahmana is one of the four sections of the Rigveda, which also includes the `Samhitas` (hymns), `Aranyakas` (forest texts), and `Upanishads` (philosophical texts).  
 * Focus on rituals and performance: It details the meaning of sacrificial prayers and the proper performance of Vedic religious rites. It is primarily concerned with the `Karma Kanda`  portion of the Vedas, which focuses on ritual actions.  
-* Practical guidance for priests: The text is intended to be a practical guide for the Hotri priests, who are responsible for reciting hymns during sacrifices.   
+* Practical guidance for priests: The text is intended to be a practical guide for the Hotri priests, who are responsible for reciting hymns during sacrifices.
+
+The Aitareya Upanishad  
+* The `Aitareya Upanishad` is not a separate work but is specifically composed of the fourth, fifth, and sixth chapters of the second book of the `Aitareya Aranyaka`, which itself is an extension of the `Aitareya Brahmana`.
+* Focus on philosophy and meaning: The Upanishad shifts focus from the literal performance of rituals to their inner, symbolic, and philosophical meaning. It is concerned with the Jnana Kanda portion of the Vedas, or the path of knowledge.
+* Teaches self-realization: The Upanishad's purpose is to point towards the Ultimate Reality beyond the world, specifically discussing the nature of the self (Atman) and its unity with the Universal Consciousness (Brahman). 
+
+In short, the Aitareya Brahmana and the Aitareya Upanishad represent a transition in Vedic thought from external ritual to internal, philosophical knowledge  
 
 ---
 
