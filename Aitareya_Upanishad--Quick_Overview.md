@@ -1,5 +1,3 @@
-Overview and plan delivered. Below is a compact orientation and an immediate first lesson you can use in your study group. I will then continue one verse / one topic at a time as you ask.
-
 # Quick overview — Aitareya Upanishad (core points)
 
 * Source: part of the *Aitareya* material attached to the *Rigveda*.
@@ -8,7 +6,7 @@ Overview and plan delivered. Below is a compact orientation and an immediate fir
 * Tone: poetic and metaphysical. Uses creation imagery and first-person accounts to show that reality is rooted in consciousness within every being.
 * Traditional value: foundational for Vedanta discussions on Atman/Brahman and for meditative inquiry into the subject of experience.
 
-# Study method I will use for each session (one verse / one topic)
+# Step by Step study method for each topic (OR each verse)
 
 Each step will include:
 
@@ -19,8 +17,6 @@ Each step will include:
 5. Practice & reflection — 2–3 study prompts and one short contemplative exercise or meditation pointer.
 6. Group prompts — 3 discussion questions suitable for your study group.
 7. Cross-references — brief pointers to other Upanishads or verses for comparative study.
-
-You asked to proceed one verse / one topic at a time. I will start now.
 
 ---
 
