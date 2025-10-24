@@ -117,17 +117,17 @@ sa – He │ ādbhyaḥ – from the waters (primordial causal matrix) │ puru
 
 ## **Verse 1.4 — The Eight Chief Devatās Are Created**
 
-|                                                                 |                                                                                                   |
-| --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| तमभ्यतपत् । तस्याभितप्तस्य मुखं निरभिद्यत यथा अण्डं ।           | He brooded upon that (Puruṣa); and from that brooding, a mouth burst forth—just as an egg cracks. |
-| मुखात् वाक् । वाचः अग्निः ।                                     | From the mouth came Speech; from speech, Fire (Agni).                                             |
-| नासिके निरभिद्येताम् । नासिकाभ्याम् प्राणः । प्राणात् वायुः ।   | The nostrils opened; from them came Breath, and from breath, Air (Vāyu).                          |
-| अक्षिणी निरभिद्येताम् । अक्षिभ्याम् चक्षुः । चक्षुषः आदित्यः ।  | The eyes burst forth; from them came sight, and from sight, the Sun (Āditya).                     |
-| कर्णौ निरभिद्येताम् । कर्णाभ्याम् श्रोत्रम् । श्रोत्रात् दिशः । | The ears opened; from them came hearing, and from hearing, the Quarters (Diśaḥ — Space).          |
-| त्वक् निरभिद्यत । त्वचः लोमानि । लोमभ्यः औषधिवनस्पतयः ।         | The skin appeared; from skin came hair, from hair, the herbs and trees (plant life).              |
-| हृदयं निरभिद्यत । हृदयात् मनः । मनसः चन्द्रमाः ।                | The heart opened; from the heart came mind, and from mind, the Moon (Candrama).                   |
-| नाभिः निरभिद्यत । नाभ्याः अपानः । अपानात् मृत्युः ।             | The navel opened; from the navel came the Apāna (downward breath); from Apāna, Death (Mṛtyu).     |
-| शिश्नं निरभिद्यत । शिश्नात् रेतः । रेतसः आपः ।                  | The generative organ opened; from it came seed; from seed, Waters (Āpaḥ).                         |
+|                                                    |                                                                                                   |
+| ---------------------------------------------------| ------------------------------------------------------------------------------------------------- |
+| तमभ्यतपत् । तस्याभितप्तस्य मुखं निरभिद्यत यथा अण्डं ।         | He brooded upon that (Puruṣa); and from that brooding, a mouth burst forth—just as an egg cracks. |
+| मुखात् वाक् । वाचः अग्निः ।                              | From the mouth came Speech; from speech, Fire (Agni).                                             |
+| नासिके निरभिद्येताम् । नासिकाभ्याम् प्राणः । प्राणात् वायुः ।       | The nostrils opened; from them came Breath, and from breath, Air (Vāyu).                          |
+| अक्षिणी निरभिद्येताम् । अक्षिभ्याम् चक्षुः । चक्षुषः आदित्यः ।       | The eyes burst forth; from them came sight, and from sight, the Sun (Āditya).                     |
+| कर्णौ निरभिद्येताम् । कर्णाभ्याम् श्रोत्रम् । श्रोत्रात् दिशः ।          | The ears opened; from them came hearing, and from hearing, the Quarters (Diśaḥ — Space).          |
+| त्वक् निरभिद्यत । त्वचः लोमानि । लोमभ्यः औषधिवनस्पतयः ।      | The skin appeared; from skin came hair, from hair, the herbs and trees (plant life).              |
+| हृदयं निरभिद्यत । हृदयात् मनः । मनसः चन्द्रमाः ।              | The heart opened; from the heart came mind, and from mind, the Moon (Candrama).                   |
+| नाभिः निरभिद्यत । नाभ्याः अपानः । अपानात् मृत्युः ।            | The navel opened; from the navel came the Apāna (downward breath); from Apāna, Death (Mṛtyu).     |
+| शिश्नं निरभिद्यत । शिश्नात् रेतः । रेतसः आपः ।                 | The generative organ opened; from it came seed; from seed, Waters (Āpaḥ).                        |
 
 ---
 
