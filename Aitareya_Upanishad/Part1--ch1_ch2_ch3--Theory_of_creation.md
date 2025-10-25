@@ -954,8 +954,8 @@ tasmāt – therefore │ etāni – these │ devatāni – deities (faculties,
 
 Following sections are in separate files  
 
-Part2--The Three Births.md           Chapter 4, 6 Verses           
-Part3--Consciousness is Brahman.md   Chapter 5, 4 Verses   
+Part2--ch4--The Three Births.md               (6 Verses)           
+Part3--ch5_ch6--Consciousness is Brahman.md   (4 Verses) -- Most important chapter!   
 
 ---
 
