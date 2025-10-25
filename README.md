@@ -1,7 +1,7 @@
 #### Repo created for `Aitareya Upanishad` study group guided by Ramesh Krishnamurthy - Chinmaya Mission Portland Yr 2025
 
 
-👉 [Most important upanishads (Timelines, and what it's about?)](https://github.com/lgtkgtv/upanishads_vedanta_study/blob/main/about_upanishads.md)  
+👉 [Most important upanishads](https://github.com/lgtkgtv/upanishads_vedanta_study/blob/main/about_upanishads.md)  - History timelines, and what each Upanishad is about?
 
 ## Aitareya_Upanishad
 
@@ -14,12 +14,11 @@ Notes
 
 👉 [Sankara's_(Bhasya) commentry on this upanishad](https://github.com/lgtkgtv/upanishads_vedanta_study/blob/main/Aitareya_Upanishad/2_Sankara_Bhasya--from--Rameshji--reformatted.md)  
 
-👉 [Contents overview](https://github.com/lgtkgtv/upanishads_vedanta_study/blob/main/Aitareya_Upanishad/3_Contents.md)  
+👉 [Contents overview](https://github.com/lgtkgtv/upanishads_vedanta_study/blob/main/Aitareya_Upanishad/Contents.md)  
 
-👉 [Part1 -- Theory_of_creation (3 chapters Origin of the cosmos, the gods (Devatās), human embodiment, and food](https://github.com/lgtkgtv/upanishads_vedanta_study/blob/main/Aitareya_Upanishad/4_Part1--Theory_of_creation.md)  
+👉 [Part1 -- ch1,ch2,ch3 -- Theory_of_creation (3 chapters Origin of the cosmos, the gods (Devatās), human embodiment, and food](https://github.com/lgtkgtv/upanishads_vedanta_study/blob/main/Aitareya_Upanishad/Part1--ch1_ch2_ch3--Theory_of_creation.md)
 
-Part 2 (TBD)  
+👉 [Part2 -- ch4 -- The Three Births](https://github.com/lgtkgtv/upanishads_vedanta_study/blob/main/Aitareya_Upanishad/Part2--ch4--The%20Three%20Births.md)
 
-Part 3 (TBD)  
-
+👉 [Part3 -- ch5,ch6 -- Consciousness is Brahman](https://github.com/lgtkgtv/upanishads_vedanta_study/blob/main/Aitareya_Upanishad/Part3--ch5_ch6--Consciousness%20is%20Brahman.md)  🎯 This is the most important chapter !   
 
