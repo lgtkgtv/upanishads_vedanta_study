@@ -1,14 +1,14 @@
 #### Repo created for `Aitareya Upanishad` study group guided by Ramesh Krishnamurthy - Chinmaya Mission Portland Yr 2025
 
-
 👉 [Most important upanishads](https://github.com/lgtkgtv/upanishads_vedanta_study/blob/main/about_upanishads.md)  - History timelines, and what each Upanishad is about?
 
 ## Aitareya_Upanishad
 
-In 2019, **Swami Gurubhaktananda** published his notes [🎯 Aitareya_Upanishad -- pdf](https://chinfo.org/wp-content/uploads/2024/05/34_Aitareya_Upanishad-fced564c-5f2f-45c3-a707-9990f0e6fc3f.pdf) from Chinmaya Mission's Sandeepany Sadhanalaya's 2-year Vedanta Course completed in year 2013. This was based on a series of 10 lectures by **Swami Advayanandaji**. This is a complete and anthentic reference.  
+In 2019, **Swami Gurubhaktananda** published this document [🎯 Aitareya_Upanishad -- pdf](https://chinfo.org/wp-content/uploads/2024/05/34_Aitareya_Upanishad-fced564c-5f2f-45c3-a707-9990f0e6fc3f.pdf). 
+It is based on Chinmaya Mission's Sandeepany Sadhanalaya's 2-year Vedanta Course completed in year 2013 guided by **Swami Advayanandaji**.  It's is a complete and anthentic reference!     
 
 
-Notes are in the markdown text form and can be edited based on the discussions from our own study group.      
+Notes below are in the markdown text and can be edited based on the discussions..  
 
 👉 [Overview and organization](https://github.com/lgtkgtv/upanishads_vedanta_study/blob/main/Aitareya_Upanishad/1_Notes_from--Sw_Gurubhaktanandas--Sandeepanys_Vedanta_Course--2019.md)   
 
