@@ -5,10 +5,10 @@
 
 ## Aitareya_Upanishad
 
-In 2019, **Swami Gurubhaktananda** published his notes from Chinmaya Mission's Sandeepany Sadhanalaya's 2-year Vedanta Course completed in year 2013. This was based on a series of 10 lectures by **Swami Advayanandaji**.  
-[🎯 Aitareya_Upanishad -- pdf](https://chinfo.org/wp-content/uploads/2024/05/34_Aitareya_Upanishad-fced564c-5f2f-45c3-a707-9990f0e6fc3f.pdf)  Using this pdf as a complete and anthentic reference.
+In 2019, **Swami Gurubhaktananda** published his notes [🎯 Aitareya_Upanishad -- pdf](https://chinfo.org/wp-content/uploads/2024/05/34_Aitareya_Upanishad-fced564c-5f2f-45c3-a707-9990f0e6fc3f.pdf) from Chinmaya Mission's Sandeepany Sadhanalaya's 2-year Vedanta Course completed in year 2013. This was based on a series of 10 lectures by **Swami Advayanandaji**. This is a complete and anthentic reference.  
 
-Notes    
+
+Notes are in the markdown text form and can be edited based on the discussions from our own study group.      
 
 👉 [Overview and organization](https://github.com/lgtkgtv/upanishads_vedanta_study/blob/main/Aitareya_Upanishad/1_Notes_from--Sw_Gurubhaktanandas--Sandeepanys_Vedanta_Course--2019.md)   
 
